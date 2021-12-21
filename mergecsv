@@ -1,5 +1,5 @@
-#rename files with prefix 'data_'
-#add all files in one folder
+#rename files with the prefix 'data_'
+#add all files into one folder
 
 import os, glob
 import pandas as pd
